@@ -3,7 +3,7 @@ For use with the BitParty/BotParty SDCA strategy on 3Commas bots. It will automa
 
 **Use this script at your own risk.**
 
-Before first running the script you will need to run
+Before first running the script for the first time, you will need to run
 
     pip install py3cw
 
